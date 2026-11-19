@@ -12,6 +12,12 @@ The device connects to the internet through Wi-Fi and communicates with the Kiwi
 
 This project demonstrates how IoT technology can support smart lighting automation, remote device management, energy-efficient lighting, and intelligent home automation.
 
+Project Links:
+https://www.hackster.io/yuvansris2002/smart-led-monitoring-and-control-using-kiwisiot-347a95
+
+Learn More:
+https://github.com/Kiwistron/KiwisIoT-Projects
+
 🌐 Explore KiwisIoT
 
 Want to build your own IoT projects?
